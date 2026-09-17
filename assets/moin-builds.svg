@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#f7faff"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8bbcf2"/><stop offset="1" stop-color="#2454d8"/></linearGradient>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="5" stdDeviation="8" flood-opacity=".10"/></filter>
+</defs>
+<rect width="1400" height="720" rx="26" fill="url(#bg)"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#17243a">
+ <text x="70" y="62" font-size="16" letter-spacing="5" fill="#4e95e1">ENGINEERING SIGNAL / SELECTED BUILDS</text>
+ <text x="70" y="105" font-size="30" font-weight="700">Problems become systems. Systems become outcomes.</text>
+</g>
+<path d="M150 235 H1250" stroke="#b8d3ef" stroke-width="3" stroke-dasharray="8 12"/>
+<g filter="url(#shadow)">
+ <rect x="55" y="150" width="400" height="430" rx="22" fill="#fff" stroke="#d9e8f7"/>
+ <rect x="500" y="150" width="400" height="430" rx="22" fill="#fff" stroke="#d9e8f7"/>
+ <rect x="945" y="150" width="400" height="430" rx="22" fill="#fff" stroke="#d9e8f7"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+ <g transform="translate(85 185)"><circle cx="30" cy="30" r="30" fill="#eaf4ff"/><path d="M17 34h26M17 27h26M17 41h18" stroke="#397fc8" stroke-width="3" stroke-linecap="round"/><circle cx="17" cy="18" r="3" fill="#397fc8"/></g>
+ <text x="155" y="198" font-size="15" letter-spacing="4" fill="#4e95e1">01 / AQUATRACK</text>
+ <text x="85" y="260" font-size="27" font-weight="700" fill="#17243a">Water intelligence</text>
+ <text x="85" y="290" font-size="15" fill="#6e7f98">Society-scale consumption platform</text>
+ <text x="85" y="334" font-size="13" letter-spacing="2" fill="#7a8aa4">SYSTEM</text>
+ <text x="85" y="363" font-size="16" font-weight="700" fill="#2454d8">READINGS → ANALYTICS</text>
+ <text x="85" y="391" font-size="16" font-weight="700" fill="#2454d8">BILLING → EXPENSES</text>
+ <text x="85" y="419" font-size="16" font-weight="700" fill="#2454d8">REPORTING → ALERTS</text>
+ <text x="85" y="460" font-size="13" letter-spacing="2" fill="#7a8aa4">ENGINEERING</text>
+ <text x="85" y="487" font-size="14" fill="#26344b">React · TypeScript · Firebase</text>
+ <text x="85" y="512" font-size="14" fill="#26344b">Analytics · Billing · RBAC · PWA</text>
+ <text x="85" y="550" font-size="12" letter-spacing="2" fill="#4e95e1">DATA → DECISIONS</text>
+
+ <g transform="translate(530 185)"><circle cx="30" cy="30" r="30" fill="#eaf4ff"/><path d="M18 19h24v27H18zM23 26h14M23 32h10M23 38h13" fill="none" stroke="#397fc8" stroke-width="3"/></g>
+ <text x="600" y="198" font-size="15" letter-spacing="4" fill="#4e95e1">02 / INCOME TRACKER</text>
+ <text x="530" y="260" font-size="27" font-weight="700" fill="#17243a">Resilient finance</text>
+ <text x="530" y="290" font-size="15" fill="#6e7f98">Authentication and persistence workflow</text>
+ <text x="530" y="334" font-size="13" letter-spacing="2" fill="#7a8aa4">SYSTEM</text>
+ <text x="530" y="363" font-size="16" font-weight="700" fill="#2454d8">AUTH → TOKEN LIFECYCLE</text>
+ <text x="530" y="391" font-size="16" font-weight="700" fill="#2454d8">TTL → REFRESH → DATA</text>
+ <text x="530" y="419" font-size="16" font-weight="700" fill="#2454d8">SESSION → CONTINUITY</text>
+ <text x="530" y="460" font-size="13" letter-spacing="2" fill="#7a8aa4">ENGINEERING</text>
+ <text x="530" y="487" font-size="14" fill="#26344b">React · TypeScript · Supabase</text>
+ <text x="530" y="512" font-size="14" fill="#26344b">Access token · Refresh token · TTL</text>
+ <text x="530" y="550" font-size="12" letter-spacing="2" fill="#4e95e1">STATE → TRUST</text>
+
+ <g transform="translate(975 185)"><circle cx="30" cy="30" r="30" fill="#eaf4ff"/><rect x="15" y="17" width="30" height="25" rx="3" fill="none" stroke="#397fc8" stroke-width="3"/><path d="M22 24l6 5-6 5M31 34h8" stroke="#397fc8" stroke-width="3" fill="none" stroke-linecap="round"/></g>
+ <text x="1045" y="198" font-size="15" letter-spacing="4" fill="#4e95e1">03 / ENTERPRISE REACT</text>
+ <text x="975" y="260" font-size="27" font-weight="700" fill="#17243a">Enterprise integration</text>
+ <text x="975" y="290" font-size="15" fill="#6e7f98">React interfaces over Microsoft platforms</text>
+ <text x="975" y="334" font-size="13" letter-spacing="2" fill="#7a8aa4">SYSTEM</text>
+ <text x="975" y="363" font-size="16" font-weight="700" fill="#2454d8">USER → AUTH → ROLE-AWARE UX</text>
+ <text x="975" y="391" font-size="16" font-weight="700" fill="#2454d8">REACT → DATAVERSE</text>
+ <text x="975" y="419" font-size="16" font-weight="700" fill="#2454d8">DATA → DOMAIN EXPERIENCE</text>
+ <text x="975" y="460" font-size="13" letter-spacing="2" fill="#7a8aa4">ENGINEERING</text>
+ <text x="975" y="487" font-size="14" fill="#26344b">React · Fluent UI · MSAL · Entra ID</text>
+ <text x="975" y="512" font-size="14" fill="#26344b">Dataverse · React Query · Enterprise auth</text>
+ <text x="975" y="550" font-size="12" letter-spacing="2" fill="#4e95e1">IDENTITY → EXPERIENCE</text>
+</g>
+<g fill="#2454d8"><circle cx="480" cy="235" r="7"/><circle cx="925" cy="235" r="7"/></g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+ <text x="700" y="635" font-size="15" letter-spacing="5" fill="#72829b">PROBLEM → SYSTEM → ENGINEERING → OUTCOME</text>
+ <text x="700" y="672" font-size="12" letter-spacing="3" fill="#9aa8bb">REAL SYSTEMS · REAL CONSTRAINTS · CONTINUOUS EVOLUTION</text>
+</g>
+</svg>
