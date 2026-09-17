@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10" fill="none" stroke="#8BE9FD" stroke-width="1.5"/></marker></defs>
+<rect width="1200" height="360" rx="24" fill="#07111d"/><path d="M20 62H1180M20 318H1180" stroke="#19344a"/>
+<text x="42" y="48" fill="#8BE9FD" font-family="monospace" font-size="14" letter-spacing="3">01 / THE THESIS</text>
+<text x="70" y="145" fill="#7DD3FC" font-family="cursive" font-size="35">People</text><text x="80" y="190" fill="#A5B4FC" font-family="cursive" font-size="31">+</text><text x="112" y="190" fill="#C4B5FD" font-family="cursive" font-size="35">Technology</text><text x="105" y="235" fill="#FDE68A" font-family="cursive" font-size="31">= A brighter tomorrow</text>
+<path d="M68 252C160 275 290 263 350 244" fill="none" stroke="#FDE68A" stroke-width="2"/>
+<circle cx="570" cy="178" r="92" fill="none" stroke="#8BE9FD" stroke-width="3"/><circle cx="690" cy="178" r="92" fill="none" stroke="#C4B5FD" stroke-width="3"/><path d="M620 112C645 145 645 210 620 244" fill="none" stroke="#6EE7B7" stroke-width="3"/>
+<text x="530" y="168" fill="#fff" font-family="cursive" font-size="25">People</text><text x="520" y="202" fill="#A7F3D0" font-family="cursive" font-size="19">learn · grow · create</text><text x="645" y="168" fill="#fff" font-family="cursive" font-size="25">Technology</text><text x="650" y="202" fill="#C4B5FD" font-family="cursive" font-size="19">solve · automate · scale</text><text x="596" y="292" fill="#FDE68A" font-family="cursive" font-size="22">real impact</text>
+<path d="M815 112Q875 82 930 112Q975 138 1010 108" fill="none" stroke="#8BE9FD" stroke-width="2" marker-end="url(#arrow)"/><text x="850" y="164" fill="#fff" font-family="cursive" font-size="27">curiosity</text><text x="845" y="201" fill="#7DD3FC" font-family="cursive" font-size="24">→ learning → innovation</text>
+</svg>
