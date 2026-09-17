@@ -16,6 +16,14 @@
   <a href="mailto:mohammadmoin.tech@gmail.com">Contact</a>
 </p>
 
+<table>
+<tr>
+<td align="center" width="33%"><h1>15K+</h1><strong>ENGINEERS TRAINED</strong></td>
+<td align="center" width="33%"><h1>350+</h1><strong>SESSIONS DELIVERED</strong></td>
+<td align="center" width="33%"><h1>14+</h1><strong>YEARS IN PRODUCTION</strong></td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -182,34 +190,7 @@ The interesting part isn't simply calling a model. It is designing the **system 
 
 ---
 
-## `// 07 — ENGINEERING SIGNAL`
-
-<table>
-<tr>
-<td align="center" width="33%">
-<h1>15K+</h1>
-<strong>ENGINEERS TRAINED</strong>
-<br />
-<sub>PEOPLE REACHED</sub>
-</td>
-<td align="center" width="33%">
-<h1>350+</h1>
-<strong>SESSIONS DELIVERED</strong>
-<br />
-<sub>WORKSHOPS · LABS · PROGRAMS</sub>
-</td>
-<td align="center" width="33%">
-<h1>14+</h1>
-<strong>YEARS IN PRODUCTION</strong>
-<br />
-<sub>ENGINEERING · CLOUD · ENTERPRISE</sub>
-</td>
-</tr>
-</table>
-
----
-
-## `// 08 — OPERATING PRINCIPLES`
+## `// 07 — OPERATING PRINCIPLES`
 
 ```text
 [01]  Make complexity visible.
@@ -223,7 +204,7 @@ The interesting part isn't simply calling a model. It is designing the **system 
 
 ---
 
-## `// 09 — CURRENT VECTOR`
+## `// 08 — CURRENT VECTOR`
 
 ```text
 AI-native engineering       RAG architectures
