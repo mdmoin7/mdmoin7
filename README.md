@@ -1,12 +1,6 @@
 <div align="center">
 
-# MOHAMMAD MOIN
-
-**Independent Consultant · Corporate Technology Trainer**
-
-`ENGINEERING × PEOPLE × AI`
-
-> **Build People. Solve Problems. Innovate.**
+<img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-header.svg" alt="Mohammad Moin — Independent Consultant and Corporate Technology Trainer" width="100%" />
 
 <p>
   <a href="https://mohammadmoin.vercel.app/">Portfolio</a>
@@ -14,10 +8,6 @@
   <a href="https://www.linkedin.com/in/mohammadmoin/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:mohammadmoin.tech@gmail.com">Contact</a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-signal.svg" alt="Engineering signal: 15K+ engineers trained, 350+ sessions delivered, 14+ years in production" width="100%" />
 </p>
 
 </div>
