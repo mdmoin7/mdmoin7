@@ -50,71 +50,13 @@ Technical discovery · modernization · frontend architecture · design systems 
 
 ## `// 03 — TECHNOLOGY`
 
-### `INTERFACE`
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Fluent_UI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-technology-landscape.svg" alt="Technology landscape spanning interface, platform, architecture, enterprise, delivery and AI/RAG" width="100%" />
 </p>
 
-### `PLATFORM`
+The stack is intentionally broad, but the focus is on **how the pieces compose into production systems**—from interface architecture and backend platforms to enterprise identity, cloud delivery, and AI/RAG systems.
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=111827" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### `ARCHITECTURE`
-
-<p>
-<img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" />
-<img src="https://img.shields.io/badge/Micro--Frontends-111827?style=for-the-badge&logo=webpack&logoColor=8DD6F9" />
-<img src="https://img.shields.io/badge/Design_Systems-111827?style=for-the-badge&logo=storybook&logoColor=FF4785" />
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
-
-### `ENTERPRISE`
-
-<p>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Dynamics_365-0B53CE?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Entra_ID-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/MSAL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
-### `DELIVERY`
-
-<p>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### `AI / RAG`
-
-<p>
-<img src="https://img.shields.io/badge/LLM_Applications-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-2454D8?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Embeddings-0F766E?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector_Search-7C3AED?style=for-the-badge&logo=elastic&logoColor=white" />
-</p>
-
-<p align="center"><img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,nodejs,nestjs,python,azure,terraform,docker,git,github&perline=12" alt="Technology stack" /></p>
+`INTERFACE` · `PLATFORM` · `ARCHITECTURE` · `ENTERPRISE` · `DELIVERY` · `AI / RAG`
 
 ---
 
