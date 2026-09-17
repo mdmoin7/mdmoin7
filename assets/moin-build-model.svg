@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="620" viewBox="0 0 1400 620">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#f7faff"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8bbcf2"/><stop offset="1" stop-color="#2454d8"/></linearGradient>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="5" stdDeviation="8" flood-opacity=".09"/></filter>
+</defs>
+<rect width="1400" height="620" rx="26" fill="url(#bg)"/>
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="70" y="62" font-size="16" letter-spacing="5" fill="#4e95e1">ENGINEERING MODEL / WHAT I BUILD</text>
+ <text x="70" y="106" font-size="30" font-weight="700" fill="#17243a">From people and problems to systems that work.</text>
+ <text x="70" y="138" font-size="15" fill="#7a8aa4">A connected view of the systems, platforms and capabilities I work across.</text>
+</g>
+<g stroke="#b8d3ef" stroke-width="3" fill="none" stroke-dasharray="7 10">
+ <path d="M280 302H435"/><path d="M965 302H1120"/><path d="M700 150V225"/><path d="M700 395V470"/>
+</g>
+<g filter="url(#shadow)" font-family="Arial,Helvetica,sans-serif">
+ <rect x="520" y="225" width="360" height="170" rx="24" fill="#fff" stroke="#cfe1f4" stroke-width="2"/>
+ <rect x="65" y="235" width="215" height="135" rx="20" fill="#fff" stroke="#d9e8f7"/>
+ <rect x="1120" y="235" width="215" height="135" rx="20" fill="#fff" stroke="#d9e8f7"/>
+ <rect x="510" y="20" width="380" height="130" rx="20" fill="#fff" stroke="#d9e8f7"/>
+ <rect x="510" y="470" width="380" height="120" rx="20" fill="#fff" stroke="#d9e8f7"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" fill="#17243a">
+ <circle cx="700" cy="270" r="25" fill="#eaf4ff"/><path d="M686 272l9 9 20-23" fill="none" stroke="#397fc8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="700" y="320" text-anchor="middle" font-size="24" font-weight="700">SYSTEMS</text>
+ <text x="700" y="349" text-anchor="middle" font-size="14" fill="#6e7f98">Architecture · Engineering · AI</text>
+ <text x="700" y="373" text-anchor="middle" font-size="13" letter-spacing="2" fill="#4e95e1">DESIGN → BUILD → OPERATE</text>
+
+ <text x="172" y="270" text-anchor="middle" font-size="15" letter-spacing="4" fill="#4e95e1">ENTERPRISE</text>
+ <text x="172" y="303" text-anchor="middle" font-size="20" font-weight="700">Applications</text>
+ <text x="172" y="330" text-anchor="middle" font-size="13" fill="#6e7f98">React · Dataverse · Identity</text>
+ <text x="172" y="353" text-anchor="middle" font-size="11" letter-spacing="2" fill="#7a8aa4">EXPERIENCE</text>
+
+ <text x="1227" y="270" text-anchor="middle" font-size="15" letter-spacing="4" fill="#4e95e1">AI / RAG</text>
+ <text x="1227" y="303" text-anchor="middle" font-size="20" font-weight="700">Intelligent systems</text>
+ <text x="1227" y="330" text-anchor="middle" font-size="13" fill="#6e7f98">Retrieval · Context · Evaluation</text>
+ <text x="1227" y="353" text-anchor="middle" font-size="11" letter-spacing="2" fill="#7a8aa4">INTELLIGENCE</text>
+
+ <text x="700" y="57" text-anchor="middle" font-size="15" letter-spacing="4" fill="#4e95e1">PLATFORMS</text>
+ <text x="700" y="91" text-anchor="middle" font-size="20" font-weight="700">Cloud · Data · Delivery</text>
+ <text x="700" y="117" text-anchor="middle" font-size="13" fill="#6e7f98">Azure · Terraform · CI/CD · APIs</text>
+
+ <text x="700" y="507" text-anchor="middle" font-size="15" letter-spacing="4" fill="#4e95e1">CAPABILITY</text>
+ <text x="700" y="540" text-anchor="middle" font-size="20" font-weight="700">People → Production</text>
+ <text x="700" y="565" text-anchor="middle" font-size="13" fill="#6e7f98">Training · Enablement · Ownership</text>
+</g>
+<g fill="url(#blue)">
+ <circle cx="435" cy="302" r="7"/><circle cx="965" cy="302" r="7"/><circle cx="700" cy="225" r="7"/><circle cx="700" cy="470" r="7"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+ <text x="700" y="606" font-size="11" letter-spacing="4" fill="#9aa8bb">ENGINEERING · ENTERPRISE · AI · ENABLEMENT</text>
+</g>
+</svg>
