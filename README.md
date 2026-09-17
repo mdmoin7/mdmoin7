@@ -18,9 +18,21 @@
 
 <table>
 <tr>
-<td align="center" width="33%"><h1>15K+</h1><strong>ENGINEERS TRAINED</strong></td>
-<td align="center" width="33%"><h1>350+</h1><strong>SESSIONS DELIVERED</strong></td>
-<td align="center" width="33%"><h1>14+</h1><strong>YEARS IN PRODUCTION</strong></td>
+<td align="left" width="34%">
+<sub>01 / PEOPLE</sub><br />
+<h1>15K+</h1>
+<strong>ENGINEERS TRAINED</strong>
+</td>
+<td align="left" width="33%">
+<sub>02 / ENABLEMENT</sub><br />
+<h1>350+</h1>
+<strong>SESSIONS DELIVERED</strong>
+</td>
+<td align="left" width="33%">
+<sub>03 / EXPERIENCE</sub><br />
+<h1>14+</h1>
+<strong>YEARS IN PRODUCTION</strong>
+</td>
 </tr>
 </table>
 
