@@ -1,22 +1,22 @@
 <div align="center">
 
-<a href="https://mohammadmoin.vercel.app/">
-  <img src="https://cdn.jsdelivr.net/gh/mdmoin7/portfolio@b4e402c3adbefe8714c71c5917299d758f86ee9a/assets/profile.webp" width="120" alt="Mohammad Moin" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/mdmoin7/portfolio@b4e402c3adbefe8714c71c5917299d758f86ee9a/assets/profile.webp" alt="Mohammad Moin — Independent Consultant and Corporate Technology Trainer" width="100%" />
 
-# MOHAMMAD MOIN
+<br />
+
+### `ENGINEERING × PEOPLE × AI`
 
 **Independent Consultant · Corporate Technology Trainer**
 
-`ENGINEERING × PEOPLE × AI`
-
 > **Build People. Solve Problems. Innovate.**
 
-<a href="https://mohammadmoin.vercel.app/">Portfolio</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/mohammadmoin/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="mailto:mohammadmoin.tech@gmail.com">Contact</a>
+<p>
+  <a href="https://mohammadmoin.vercel.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mohammadmoin/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:mohammadmoin.tech@gmail.com">Contact</a>
+</p>
 
 </div>
 
@@ -25,15 +25,15 @@
 ## `// 00 — THE THESIS`
 
 ```text
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   SOFTWARE IS THE OUTPUT.                                           │
-│   SYSTEMS ARE THE LEVER.                                            │
-│   PEOPLE ARE THE MULTIPLIER.                                        │
-│                                                                      │
-│   I work where engineering, architecture, learning and AI converge. │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│     SOFTWARE IS THE OUTPUT.                                             │
+│     SYSTEMS ARE THE LEVER.                                              │
+│     PEOPLE ARE THE MULTIPLIER.                                          │
+│                                                                          │
+│     I work where engineering, architecture, learning and AI converge.  │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
 I help teams **understand complexity, shape architecture, build production systems, and develop the capability to evolve them**.
@@ -56,30 +56,89 @@ The work spans consulting, architecture, hands-on engineering, enterprise modern
 
 ## `// 02 — WHAT I DO`
 
-| `CONSULT` | `ARCHITECT` | `BUILD` | `ENABLE` |
-|---|---|---|---|
-| Technical discovery | Frontend architecture | Production applications | Corporate training |
-| Modernization strategy | Design systems | Cloud / IaC / CI/CD | Architecture workshops |
-| Technical direction | Micro frontends | AI-enabled workflows | Hands-on engineering labs |
+### `01 / CONSULT`
+
+Technical discovery · modernization · architecture direction · engineering strategy
+
+### `02 / ARCHITECT`
+
+Frontend architecture · design systems · micro frontends · enterprise integration · auth boundaries
+
+### `03 / BUILD`
+
+Production applications · platforms · cloud infrastructure · AI-enabled workflows
+
+### `04 / ENABLE`
+
+Corporate training · engineering curricula · architecture workshops · hands-on labs
 
 ---
 
 ## `// 03 — TECHNOLOGY`
 
 ### `INTERFACE`
-`React` · `Angular` · `Next.js` · `React Native` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Fluent UI`
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Fluent_UI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
 
 ### `PLATFORM`
-`Node.js` · `Express` · `NestJS` · `FastAPI` · `Firebase` · `Supabase` · `PostgreSQL` · `Dataverse`
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=111827" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ### `ARCHITECTURE`
-`Nx` · `Micro Frontends` · `Design Systems` · `React Query` · `Redux Toolkit` · `Enterprise Patterns`
+
+<p>
+<img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" />
+<img src="https://img.shields.io/badge/Micro--Frontends-111827?style=for-the-badge&logo=webpack&logoColor=8DD6F9" />
+<img src="https://img.shields.io/badge/Design_Systems-111827?style=for-the-badge&logo=storybook&logoColor=FF4785" />
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
 
 ### `ENTERPRISE`
-`Azure` · `Dynamics 365` · `Microsoft Entra ID` · `MSAL` · `Dataverse` · `Role-based UX`
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Dynamics_365-0B53CE?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Entra_ID-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/MSAL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
 
 ### `DELIVERY`
-`Terraform` · `GitHub Actions` · `CI/CD` · `Infrastructure as Code` · `Docker`
+
+<p>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### `AI / RAG`
+
+<p>
+<img src="https://img.shields.io/badge/LLM_Applications-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-2454D8?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Embeddings-0F766E?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_Search-7C3AED?style=for-the-badge&logo=elastic&logoColor=white" />
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,nodejs,nestjs,python,azure,terraform,docker,git,github&perline=12" alt="Technology stack" />
@@ -90,16 +149,40 @@ The work spans consulting, architecture, hands-on engineering, enterprise modern
 ## `// 04 — THE AI PIPELINE`
 
 ```text
-SOURCE → INGEST → CHUNK → EMBED → VECTOR SEARCH
-                                      │
-                                      ▼
-                              CONTEXT ASSEMBLY
-                                      │
-                                      ▼
-                                     LLM
-                                      │
-                                      ▼
-                             EVALUATE → SHIP
+                         ┌──────────────────┐
+                         │      SOURCE      │
+                         │ docs · data · API │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │    INGESTION     │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │ CHUNK + EMBED    │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │  VECTOR SEARCH   │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │ CONTEXT ASSEMBLY │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │       LLM        │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │ EVALUATE / SHIP  │
+                         └──────────────────┘
 ```
 
 **AI focus:** LLM applications · RAG systems · embeddings · vector retrieval · context engineering · evaluation · AI-assisted development
@@ -111,13 +194,28 @@ The interesting part isn't simply calling a model. It is designing the **system 
 ## `// 05 — TRAINING IS A SYSTEM`
 
 ```text
-CONCEPT → WHY IT MATTERS → ARCHITECTURE → BUILD
-                                      │
-                                      ▼
-                         BREAK → DEBUG → REFACTOR
-                                      │
-                                      ▼
-                               REAL SYSTEM
+                    THEORY
+                       │
+                       ▼
+                WHY IT MATTERS
+                       │
+                       ▼
+                  ARCHITECTURE
+                       │
+                       ▼
+                    BUILD
+                       │
+                       ▼
+                   BREAK IT
+                       │
+                       ▼
+                   DEBUG IT
+                       │
+                       ▼
+                   REFACTOR
+                       │
+                       ▼
+                 REAL SYSTEM
 ```
 
 ### Training domains
@@ -128,32 +226,63 @@ CONCEPT → WHY IT MATTERS → ARCHITECTURE → BUILD
 
 `Azure` · `Terraform` · `CI/CD` · `AI / RAG` · `Engineering Practices`
 
-> A good training session doesn't end when the demo works. It ends when the engineer can reason about **why it works, how it breaks, and how to evolve it**.
+> A good training session doesn't end when the demo works.
+> It ends when the engineer can reason about **why it works, how it breaks, and how to evolve it**.
 
 ---
 
 ## `// 06 — SELECTED BUILDS`
 
 ### `AQUATRACK / 01`
+
 **Water-consumption intelligence platform**
+
+```text
+READINGS ──► ANALYTICS ──► BILLING ──► EXPENSES
+                  │             │
+                  ▼             ▼
+              ANOMALIES      REPORTING
+                  │
+                  ▼
+                ALERTS
+```
 
 `React` `TypeScript` `Firebase` `Tailwind` `Recharts`
 
-`READINGS` → `ANALYTICS` → `BILLING` → `EXPENSES` → `REPORTING` → `ALERTS`
-
 ### `INCOME TRACKER / 02`
+
 **Finance application with resilient authentication**
+
+```text
+AUTH ──► TOKEN LIFECYCLE ──► TTL ──► DATA
+                 │
+                 ▼
+             REFRESH
+```
 
 `React` `TypeScript` `Supabase`
 
-`AUTH` → `TOKEN LIFECYCLE` → `TTL` → `REFRESH` → `DATA`
-
 ### `ENTERPRISE REACT + DATAVERSE / 03`
+
 **Enterprise application architecture around Microsoft platforms**
 
-`React` `Fluent UI` `MSAL` `Entra ID` `Dataverse` `React Query`
+```text
+USER
+ │
+ ▼
+MSAL / ENTRA ID
+ │
+ ▼
+ROLE-AWARE UX
+ │
+ ▼
+REACT + FLUENT UI
+ │
+ ▼
+DATAVERSE
+```
 
-`USER` → `AUTH` → `ROLE-AWARE UX` → `REACT` → `DATAVERSE`
+`React` `Fluent UI` `MSAL` `Entra ID` `Dataverse` `React Query`
 
 ---
 
@@ -161,9 +290,22 @@ CONCEPT → WHY IT MATTERS → ARCHITECTURE → BUILD
 
 <div align="center">
 
-| 15k+ | 350+ | 14+ |
-|:---:|:---:|:---:|
-| engineers trained | sessions delivered | years in production |
+<table>
+<tr>
+<td align="center" width="33%">
+<h2>15k+</h2>
+<sub>ENGINEERS TRAINED</sub>
+</td>
+<td align="center" width="33%">
+<h2>350+</h2>
+<sub>SESSIONS DELIVERED</sub>
+</td>
+<td align="center" width="33%">
+<h2>14+</h2>
+<sub>YEARS IN PRODUCTION</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -172,13 +314,13 @@ CONCEPT → WHY IT MATTERS → ARCHITECTURE → BUILD
 ## `// 08 — OPERATING PRINCIPLES`
 
 ```text
-01  Make complexity visible.
-02  Architecture should create clarity, not ceremony.
-03  Automate what should never require memory.
-04  Design for change before change arrives.
-05  Developer experience is part of system design.
-06  Teach the reasoning, not just the API.
-07  Build systems people can operate — not merely compile.
+[01]  Make complexity visible.
+[02]  Architecture should create clarity, not ceremony.
+[03]  Automate what should never require memory.
+[04]  Design for change before change arrives.
+[05]  Developer experience is part of system design.
+[06]  Teach the reasoning, not just the API.
+[07]  Build systems people can operate — not merely compile.
 ```
 
 ---
@@ -186,10 +328,16 @@ CONCEPT → WHY IT MATTERS → ARCHITECTURE → BUILD
 ## `// 09 — CURRENT VECTOR`
 
 ```text
-AI-native engineering       RAG architectures
-Enterprise React            Developer experience
-Architecture education      Intelligent workflows
-Modern cloud delivery       Systems that teach themselves
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   EXPLORING                                                     │
+│                                                                 │
+│   AI-native engineering       RAG architectures                │
+│   Enterprise React            Developer experience              │
+│   Architecture education      Intelligent workflows             │
+│   Modern cloud delivery       Systems that teach themselves    │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
