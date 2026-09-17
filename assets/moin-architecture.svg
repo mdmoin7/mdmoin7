@@ -1,0 +1,20 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="260" rx="18" fill="#0B1220"/>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<g fill="#111C2E" stroke="#38BDF8">
+<rect x="55" y="92" width="145" height="72" rx="12"/><rect x="235" y="92" width="145" height="72" rx="12"/>
+<rect x="415" y="92" width="145" height="72" rx="12"/><rect x="595" y="92" width="145" height="72" rx="12"/>
+<rect x="775" y="92" width="145" height="72" rx="12"/>
+</g>
+<g fill="#E2E8F0" font-size="16">
+<text x="127" y="122">PEOPLE</text><text x="127" y="145">Needs</text>
+<text x="307" y="122">PROBLEM</text><text x="307" y="145">Clarity</text>
+<text x="487" y="122">DESIGN</text><text x="487" y="145">Architecture</text>
+<text x="667" y="122">BUILD</text><text x="667" y="145">Technology</text>
+<text x="847" y="122">IMPACT</text><text x="847" y="145">Outcome</text>
+</g>
+<g fill="#7DD3FC" font-size="28">
+<text x="215" y="132">→</text><text x="395" y="132">→</text><text x="575" y="132">→</text><text x="755" y="132">→</text>
+</g>
+<text x="500" y="45" fill="#A5B4FC" font-size="18" letter-spacing="4">THE ENGINEERING LOOP</text>
+</g></svg>

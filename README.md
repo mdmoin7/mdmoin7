@@ -1,84 +1,233 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2454d8,100:0a1628&height=160&section=header&text=Mohammad%20Moin&fontSize=52&fontColor=ffffff&animation=twinkling)](https://mohammadmoin.vercel.app/)
+<a href="https://mohammadmoin.vercel.app/">
+  <img src="https://cdn.jsdelivr.net/gh/mdmoin7/portfolio@b4e402c3adbefe8714c71c5917299d758f86ee9a/assets/profile.webp" width="120" alt="Mohammad Moin" />
+</a>
 
-<img src="https://cdn.jsdelivr.net/gh/mdmoin7/portfolio@b4e402c3adbefe8714c71c5917299d758f86ee9a/assets/profile.webp" width="128" alt="Mohammad Moin" style="border-radius: 50%;" />
+# MOHAMMAD MOIN
 
-<br />
+**Independent Consultant · Corporate Technology Trainer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1200&color=C9A227&center=true&vCenter=true&width=620&lines=Independent+Software+Engineering+Consultant;Corporate+Technology+Trainer;Building+systems.+Developing+people.)](https://mohammadmoin.vercel.app/)
+`BUILD PEOPLE` · `SOLVE PROBLEMS` · `INNOVATE`
 
-<br />
-
-📍 Bengaluru, India · IST (UTC+5:30) · remote-first · US/EU overlap
-
-<br />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohammadmoin.vercel.app-2454d8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohammadmoin.vercel.app/)
-[![Consulting](https://img.shields.io/badge/Consulting-Engagements-0a1628?style=for-the-badge&logo=briefcase&logoColor=C9A227)](https://mohammadmoin.vercel.app/consulting/)
-[![Training](https://img.shields.io/badge/Training-Programs-C9A227?style=for-the-badge&logo=readthedocs&logoColor=0a1628)](https://mohammadmoin.vercel.app/training/)
-[![Contact](https://img.shields.io/badge/Contact-Let's%20talk-2454d8?style=for-the-badge&logo=gmail&logoColor=white)](https://mohammadmoin.vercel.app/contact/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadmoin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadmoin/)
+<a href="https://mohammadmoin.vercel.app/">portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/mohammadmoin/">linkedin</a>
+&nbsp;·&nbsp;
+<a href="mailto:hello@mohammadmoin.com">contact</a>
 
 </div>
 
 ---
 
-### ⚡ At a glance
+<!--
+Visual-first README:
+- The architecture diagram below is intentionally hosted externally so GitHub can render it cleanly.
+- Replace the image URL with your preferred deployed SVG/PNG endpoint when you publish the asset.
+-->
 
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>15k+</h3>
-<sub>Engineers trained</sub>
-</td>
-<td align="center" width="33%">
-<h3>350+</h3>
-<sub>Sessions delivered</sub>
-</td>
-<td align="center" width="33%">
-<h3>14+</h3>
-<sub>Years in production</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-architecture.svg"
+    alt="People to problem to design to build to impact"
+    width="900"
+  />
+</p>
 
----
+## `01 / profile`
 
-### 🔧 Engineering
-
-Architecture, delivery, and modernization across the JavaScript ecosystem — from component libraries to cloud infra.
-
-**React** · **Angular** · **Vue** · **React Native** · **Node.js / NestJS** · **TypeScript** · **Nx** · **Terraform / Azure**
-
-[![Stack](https://skillicons.dev/icons?i=react,angular,ts,nodejs,nestjs,terraform,azure,docker,git,github&perline=10)](https://mohammadmoin.vercel.app/engineering/frontend-architecture/)
-
----
-
-### 🎓 Training & curricula
-
-Enterprise upskilling for cohorts of 20–50 engineers — IBM · Amazon · Walmart · SAP · Dell
-
-**Curricula authored**
-- React & NestJS Intermediate Track
-- Angular Intermediate Track
-- React JS Development Track
-- GenAI-Powered .NET Application Development
+```text
+╭────────────────────────────────────────────────────────────────────╮
+│ MOHAMMAD MOIN                                                       │
+│ Independent Consultant · Corporate Technology Trainer              │
+├────────────────────────────────────────────────────────────────────┤
+│ I work at the intersection of                                      │
+│                                                                     │
+│      PEOPLE  ×  ENGINEERING  ×  ARCHITECTURE  ×  AI                │
+│                                                                     │
+│ turning difficult technical problems into systems people can        │
+│ understand, build, ship, operate, and evolve.                      │
+╰────────────────────────────────────────────────────────────────────╯
+```
 
 ---
 
-### 🚀 Recent engagement
+## `02 / capability map`
 
-**React Consultant · JLL** — re-architected legacy AEM/Java web components to React across a multi-country team of 10–15 engineers, and orchestrated a shared SolidJS design system translated into React and Angular.
+| `CONSULT` | `ARCHITECT` | `BUILD` | `ENABLE` |
+|---|---|---|---|
+| Diagnose technical problems | Shape frontend & enterprise architecture | React / Angular / Node.js / AI systems | Corporate technology training |
+| Modernization strategy | Design systems & micro frontends | Cloud / IaC / CI/CD | Hands-on engineering labs |
+| Technical direction | Auth, data & integration boundaries | Production-ready application flows | Architecture-led curricula |
+
+### Engineering canvas
+
+```text
+FRONTEND
+React · Angular · Next.js · React Native · TypeScript · Tailwind
+
+PLATFORM
+Node.js · Express · NestJS · FastAPI · Firebase · Supabase · PostgreSQL
+
+ARCHITECTURE
+Nx · Micro Frontends · Design Systems · React Query · Redux Toolkit
+
+ENTERPRISE
+Azure · Dataverse · Dynamics 365 · Microsoft Entra ID · MSAL · Fluent UI
+
+DELIVERY
+Terraform · GitHub Actions · CI/CD · Infrastructure as Code
+
+AI
+LLM Applications · RAG · Embeddings · Vector Search · AI Workflows
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,nodejs,nestjs,python,azure,terraform,docker,git,github&perline=12" alt="Technology stack" />
+</p>
 
 ---
+
+## `03 / the AI loop`
+
+```text
+DOCUMENTS
+   │
+   ▼
+INGEST ──► CHUNK ──► EMBED ──► INDEX
+                             │
+                             ▼
+                    VECTOR RETRIEVAL
+                             │
+                             ▼
+                    CONTEXT ASSEMBLY
+                             │
+                             ▼
+                          LLM
+                             │
+                             ▼
+                  EVALUATE · REFINE · SHIP
+```
+
+I am particularly interested in AI systems where **retrieval, context, evaluation, security, observability, and product UX** are designed together—not treated as isolated features.
+
+---
+
+## `04 / training laboratory`
+
+Training is treated as an engineering system:
+
+```text
+CONCEPT
+   ↓
+WHY IT MATTERS
+   ↓
+ARCHITECTURE
+   ↓
+LIVE BUILD
+   ↓
+BREAK IT
+   ↓
+DEBUG IT
+   ↓
+REFACTOR
+   ↓
+APPLY TO REAL SYSTEMS
+```
+
+### Focus areas
+
+`React` · `Angular` · `JavaScript` · `TypeScript` · `Node.js` · `MERN` · `React Native`
+
+`Next.js` · `NestJS` · `Frontend Architecture` · `Enterprise Applications`
+
+`Azure` · `Terraform` · `CI/CD` · `AI / RAG` · `Engineering Practices`
+
+---
+
+## `05 / selected builds`
+
+### `AquaTrack`
+**Society water-consumption intelligence platform**
+
+`React` `TypeScript` `Firebase` `Tailwind` `Recharts`
+
+Readings · Analytics · Billing · Tankers · Expenses · Statements · Alerts · Anomaly Detection
+
+### `Income Tracker`
+**Personal finance application with resilient authentication**
+
+`React` `TypeScript` `Supabase`
+
+Authentication · Persistence · Token lifecycle · TTL-aware session handling
+
+### `Enterprise React + Dataverse`
+**Enterprise application architecture around Microsoft platforms**
+
+`React` `Fluent UI` `MSAL` `Entra ID` `Dataverse` `React Query`
+
+Role-aware UX · CRUD · API integration · Enterprise authentication · Reusable architecture
+
+---
+
+## `06 / principles`
+
+```text
+01  Make complexity visible.
+02  Prefer architecture that teaches.
+03  Automate the repeatable.
+04  Design for change, not just delivery.
+05  Treat developer experience as product experience.
+06  Build systems people can operate—not merely compile.
+```
+
+---
+
+## `07 / selected signal`
 
 <div align="center">
 
-> *The measure of good training isn't the slide deck — it's the engineer who ships confidently in the new stack.*
+| 15k+ | 350+ | 14+ |
+|:---:|:---:|:---:|
+| engineers trained | sessions delivered | years in production |
 
-<br />
+</div>
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:2454d8&height=80&section=footer&fontSize=14&fontColor=C9A227&animation=twinkling)](https://mohammadmoin.vercel.app/)
+---
+
+## `08 / current curiosity`
+
+```text
+How do we design engineering systems that improve
+both the software AND the people building it?
+
+                  BUILD PEOPLE
+                        ↓
+                  SOLVE PROBLEMS
+                        ↓
+                     INNOVATE
+```
+
+---
+
+## `connect / build something useful`
+
+<p align="center">
+
+<a href="https://mohammadmoin.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-2454d8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mohammadmoin/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:hello@mohammadmoin.com">
+  <img src="https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<div align="center">
+
+`ENGINEERING · LEARNING · AI`
 
 </div>
