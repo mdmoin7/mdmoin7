@@ -1,9 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-profile-frame.svg" width="72" alt="Mohammad Moin" />
-</p>
-
 # MOHAMMAD MOIN
 
 **Independent Consultant · Corporate Technology Trainer**
