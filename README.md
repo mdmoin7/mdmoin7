@@ -16,7 +16,7 @@
 &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/mohammadmoin/">LinkedIn</a>
 &nbsp;·&nbsp;
-<a href="mailto:hello@mohammadmoin.com">Contact</a>
+<a href="mailto:mohammadmoin.tech@gmail.com">Contact</a>
 
 </div>
 
