@@ -92,29 +92,11 @@ The interesting part isn't simply calling a model. It is designing the **system 
 
 ## `// 06 — SELECTED BUILDS`
 
-### `AQUATRACK / 01`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-builds.svg" alt="Selected engineering builds: AquaTrack, Income Tracker, and Enterprise React with Dataverse" width="100%" />
+</p>
 
-**Water-consumption intelligence platform**
-
-`React` `TypeScript` `Firebase` `Tailwind` `Recharts`
-
-`READINGS` → `ANALYTICS` → `BILLING` → `EXPENSES` → `REPORTING` → `ALERTS`
-
-### `INCOME TRACKER / 02`
-
-**Finance application with resilient authentication**
-
-`React` `TypeScript` `Supabase`
-
-`AUTH` → `TOKEN LIFECYCLE` → `TTL` → `REFRESH` → `DATA`
-
-### `ENTERPRISE REACT + DATAVERSE / 03`
-
-**Enterprise application architecture around Microsoft platforms**
-
-`React` `Fluent UI` `MSAL` `Entra ID` `Dataverse` `React Query`
-
-`USER` → `AUTH` → `ROLE-AWARE UX` → `REACT` → `DATAVERSE`
+The projects above represent different engineering constraints—data intelligence, authentication continuity, and enterprise integration—while sharing the same approach: **make the problem explicit, design the system, build for production, and leave it evolvable**.
 
 ---
 
