@@ -8,134 +8,119 @@
 
 **Independent Consultant · Corporate Technology Trainer**
 
-`BUILD PEOPLE` · `SOLVE PROBLEMS` · `INNOVATE`
+`ENGINEERING × PEOPLE × AI`
 
-<a href="https://mohammadmoin.vercel.app/">portfolio</a>
+> **Build People. Solve Problems. Innovate.**
+
+<a href="https://mohammadmoin.vercel.app/">Portfolio</a>
 &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/mohammadmoin/">linkedin</a>
+<a href="https://www.linkedin.com/in/mohammadmoin/">LinkedIn</a>
 &nbsp;·&nbsp;
-<a href="mailto:hello@mohammadmoin.com">contact</a>
+<a href="mailto:hello@mohammadmoin.com">Contact</a>
 
 </div>
 
 ---
 
-<!--
-Visual-first README:
-- The architecture diagram below is intentionally hosted externally so GitHub can render it cleanly.
-- Replace the image URL with your preferred deployed SVG/PNG endpoint when you publish the asset.
--->
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-architecture.svg"
-    alt="People to problem to design to build to impact"
-    width="900"
-  />
-</p>
-
-## `01 / profile`
+## `// 00 — THE THESIS`
 
 ```text
-╭────────────────────────────────────────────────────────────────────╮
-│ MOHAMMAD MOIN                                                       │
-│ Independent Consultant · Corporate Technology Trainer              │
-├────────────────────────────────────────────────────────────────────┤
-│ I work at the intersection of                                      │
-│                                                                     │
-│      PEOPLE  ×  ENGINEERING  ×  ARCHITECTURE  ×  AI                │
-│                                                                     │
-│ turning difficult technical problems into systems people can        │
-│ understand, build, ship, operate, and evolve.                      │
-╰────────────────────────────────────────────────────────────────────╯
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   SOFTWARE IS THE OUTPUT.                                           │
+│   SYSTEMS ARE THE LEVER.                                            │
+│   PEOPLE ARE THE MULTIPLIER.                                        │
+│                                                                      │
+│   I work where engineering, architecture, learning and AI converge. │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
+
+I help teams **understand complexity, shape architecture, build production systems, and develop the capability to evolve them**.
+
+The work spans consulting, architecture, hands-on engineering, enterprise modernization, AI/RAG applications, and corporate technology training.
 
 ---
 
-## `02 / capability map`
+## `// 01 — SYSTEM MAP`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-architecture.svg"
+       alt="Mohammad Moin engineering loop: people, problem, design, build, impact"
+       width="1000" />
+</p>
+
+<p align="center"><sub>PEOPLE → PROBLEM → DESIGN → BUILD → IMPACT</sub></p>
+
+---
+
+## `// 02 — WHAT I DO`
 
 | `CONSULT` | `ARCHITECT` | `BUILD` | `ENABLE` |
 |---|---|---|---|
-| Diagnose technical problems | Shape frontend & enterprise architecture | React / Angular / Node.js / AI systems | Corporate technology training |
-| Modernization strategy | Design systems & micro frontends | Cloud / IaC / CI/CD | Hands-on engineering labs |
-| Technical direction | Auth, data & integration boundaries | Production-ready application flows | Architecture-led curricula |
+| Technical discovery | Frontend architecture | Production applications | Corporate training |
+| Modernization strategy | Design systems | Cloud / IaC / CI/CD | Architecture workshops |
+| Technical direction | Micro frontends | AI-enabled workflows | Hands-on engineering labs |
 
-### Engineering canvas
+---
 
-```text
-FRONTEND
-React · Angular · Next.js · React Native · TypeScript · Tailwind
+## `// 03 — TECHNOLOGY`
 
-PLATFORM
-Node.js · Express · NestJS · FastAPI · Firebase · Supabase · PostgreSQL
+### `INTERFACE`
+`React` · `Angular` · `Next.js` · `React Native` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Fluent UI`
 
-ARCHITECTURE
-Nx · Micro Frontends · Design Systems · React Query · Redux Toolkit
+### `PLATFORM`
+`Node.js` · `Express` · `NestJS` · `FastAPI` · `Firebase` · `Supabase` · `PostgreSQL` · `Dataverse`
 
-ENTERPRISE
-Azure · Dataverse · Dynamics 365 · Microsoft Entra ID · MSAL · Fluent UI
+### `ARCHITECTURE`
+`Nx` · `Micro Frontends` · `Design Systems` · `React Query` · `Redux Toolkit` · `Enterprise Patterns`
 
-DELIVERY
-Terraform · GitHub Actions · CI/CD · Infrastructure as Code
+### `ENTERPRISE`
+`Azure` · `Dynamics 365` · `Microsoft Entra ID` · `MSAL` · `Dataverse` · `Role-based UX`
 
-AI
-LLM Applications · RAG · Embeddings · Vector Search · AI Workflows
-```
+### `DELIVERY`
+`Terraform` · `GitHub Actions` · `CI/CD` · `Infrastructure as Code` · `Docker`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,nodejs,nestjs,python,azure,terraform,docker,git,github&perline=12" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,nodejs,nestjs,python,azure,terraform,docker,git,github&perline=12" alt="Technology stack" />
 </p>
 
 ---
 
-## `03 / the AI loop`
+## `// 04 — THE AI PIPELINE`
 
 ```text
-DOCUMENTS
-   │
-   ▼
-INGEST ──► CHUNK ──► EMBED ──► INDEX
-                             │
-                             ▼
-                    VECTOR RETRIEVAL
-                             │
-                             ▼
-                    CONTEXT ASSEMBLY
-                             │
-                             ▼
-                          LLM
-                             │
-                             ▼
-                  EVALUATE · REFINE · SHIP
+SOURCE → INGEST → CHUNK → EMBED → VECTOR SEARCH
+                                      │
+                                      ▼
+                              CONTEXT ASSEMBLY
+                                      │
+                                      ▼
+                                     LLM
+                                      │
+                                      ▼
+                             EVALUATE → SHIP
 ```
 
-I am particularly interested in AI systems where **retrieval, context, evaluation, security, observability, and product UX** are designed together—not treated as isolated features.
+**AI focus:** LLM applications · RAG systems · embeddings · vector retrieval · context engineering · evaluation · AI-assisted development
+
+The interesting part isn't simply calling a model. It is designing the **system around the model**—retrieval, context, security, observability, evaluation and user experience.
 
 ---
 
-## `04 / training laboratory`
-
-Training is treated as an engineering system:
+## `// 05 — TRAINING IS A SYSTEM`
 
 ```text
-CONCEPT
-   ↓
-WHY IT MATTERS
-   ↓
-ARCHITECTURE
-   ↓
-LIVE BUILD
-   ↓
-BREAK IT
-   ↓
-DEBUG IT
-   ↓
-REFACTOR
-   ↓
-APPLY TO REAL SYSTEMS
+CONCEPT → WHY IT MATTERS → ARCHITECTURE → BUILD
+                                      │
+                                      ▼
+                         BREAK → DEBUG → REFACTOR
+                                      │
+                                      ▼
+                               REAL SYSTEM
 ```
 
-### Focus areas
+### Training domains
 
 `React` · `Angular` · `JavaScript` · `TypeScript` · `Node.js` · `MERN` · `React Native`
 
@@ -143,47 +128,36 @@ APPLY TO REAL SYSTEMS
 
 `Azure` · `Terraform` · `CI/CD` · `AI / RAG` · `Engineering Practices`
 
+> A good training session doesn't end when the demo works. It ends when the engineer can reason about **why it works, how it breaks, and how to evolve it**.
+
 ---
 
-## `05 / selected builds`
+## `// 06 — SELECTED BUILDS`
 
-### `AquaTrack`
-**Society water-consumption intelligence platform**
+### `AQUATRACK / 01`
+**Water-consumption intelligence platform**
 
 `React` `TypeScript` `Firebase` `Tailwind` `Recharts`
 
-Readings · Analytics · Billing · Tankers · Expenses · Statements · Alerts · Anomaly Detection
+`READINGS` → `ANALYTICS` → `BILLING` → `EXPENSES` → `REPORTING` → `ALERTS`
 
-### `Income Tracker`
-**Personal finance application with resilient authentication**
+### `INCOME TRACKER / 02`
+**Finance application with resilient authentication**
 
 `React` `TypeScript` `Supabase`
 
-Authentication · Persistence · Token lifecycle · TTL-aware session handling
+`AUTH` → `TOKEN LIFECYCLE` → `TTL` → `REFRESH` → `DATA`
 
-### `Enterprise React + Dataverse`
+### `ENTERPRISE REACT + DATAVERSE / 03`
 **Enterprise application architecture around Microsoft platforms**
 
 `React` `Fluent UI` `MSAL` `Entra ID` `Dataverse` `React Query`
 
-Role-aware UX · CRUD · API integration · Enterprise authentication · Reusable architecture
+`USER` → `AUTH` → `ROLE-AWARE UX` → `REACT` → `DATAVERSE`
 
 ---
 
-## `06 / principles`
-
-```text
-01  Make complexity visible.
-02  Prefer architecture that teaches.
-03  Automate the repeatable.
-04  Design for change, not just delivery.
-05  Treat developer experience as product experience.
-06  Build systems people can operate—not merely compile.
-```
-
----
-
-## `07 / selected signal`
+## `// 07 — ENGINEERING SIGNAL`
 
 <div align="center">
 
@@ -195,39 +169,46 @@ Role-aware UX · CRUD · API integration · Enterprise authentication · Reusabl
 
 ---
 
-## `08 / current curiosity`
+## `// 08 — OPERATING PRINCIPLES`
 
 ```text
-How do we design engineering systems that improve
-both the software AND the people building it?
-
-                  BUILD PEOPLE
-                        ↓
-                  SOLVE PROBLEMS
-                        ↓
-                     INNOVATE
+01  Make complexity visible.
+02  Architecture should create clarity, not ceremony.
+03  Automate what should never require memory.
+04  Design for change before change arrives.
+05  Developer experience is part of system design.
+06  Teach the reasoning, not just the API.
+07  Build systems people can operate — not merely compile.
 ```
 
 ---
 
-## `connect / build something useful`
+## `// 09 — CURRENT VECTOR`
 
-<p align="center">
+```text
+AI-native engineering       RAG architectures
+Enterprise React            Developer experience
+Architecture education      Intelligent workflows
+Modern cloud delivery       Systems that teach themselves
+```
 
-<a href="https://mohammadmoin.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-2454d8?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mohammadmoin/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:hello@mohammadmoin.com">
-  <img src="https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+---
 
 <div align="center">
 
-`ENGINEERING · LEARNING · AI`
+## `BUILD PEOPLE · SOLVE PROBLEMS · INNOVATE`
+
+<br />
+
+**Engineering · Learning · AI**
+
+<br /><br />
+
+<a href="https://mohammadmoin.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-2454D8?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/mohammadmoin/">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge" />
+</a>
 
 </div>
