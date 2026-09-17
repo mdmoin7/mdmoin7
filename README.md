@@ -93,10 +93,8 @@ The interesting part isn't simply calling a model. It is designing the **system 
 ## `// 06 — SELECTED BUILDS`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-builds.svg" alt="Selected engineering builds: AquaTrack, Income Tracker, and Enterprise React with Dataverse" width="100%" />
+  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-builds.svg" alt="Selected engineering builds: AquaTrack, Income Tracker and Enterprise React" width="100%" />
 </p>
-
-The projects above represent different engineering constraints—data intelligence, authentication continuity, and enterprise integration—while sharing the same approach: **make the problem explicit, design the system, build for production, and leave it evolvable**.
 
 ---
 
