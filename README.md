@@ -16,25 +16,9 @@
   <a href="mailto:mohammadmoin.tech@gmail.com">Contact</a>
 </p>
 
-<table>
-<tr>
-<td align="left" width="34%">
-<sub>01 / PEOPLE</sub><br />
-<h1>15K+</h1>
-<strong>ENGINEERS TRAINED</strong>
-</td>
-<td align="left" width="33%">
-<sub>02 / ENABLEMENT</sub><br />
-<h1>350+</h1>
-<strong>SESSIONS DELIVERED</strong>
-</td>
-<td align="left" width="33%">
-<sub>03 / EXPERIENCE</sub><br />
-<h1>14+</h1>
-<strong>YEARS IN PRODUCTION</strong>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-signal.svg" alt="Engineering signal: 15K+ engineers trained, 350+ sessions delivered, 14+ years in production" width="100%" />
+</p>
 
 </div>
 
