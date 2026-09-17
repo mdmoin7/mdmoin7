@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="620" viewBox="0 0 1400 620">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbfcfe"/><stop offset="1" stop-color="#f2f7fd"/></linearGradient>
+  <linearGradient id="core" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5b9fe3"/><stop offset="1" stop-color="#2454d8"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="7" stdDeviation="10" flood-opacity=".09"/></filter>
+</defs>
+<rect width="1400" height="620" rx="28" fill="url(#bg)"/>
+
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="700" y="62" text-anchor="middle" font-size="18" font-weight="700" letter-spacing="7" fill="#4e95e1">TECHNOLOGY LANDSCAPE</text>
+  <text x="700" y="94" text-anchor="middle" font-size="15" letter-spacing="3" fill="#71809a">A SYSTEM VIEW OF THE ENGINEERING STACK</text>
+</g>
+
+<!-- structural flow -->
+<g fill="none" stroke="#9fc4e9" stroke-width="3" stroke-linecap="round" stroke-dasharray="5 9">
+  <path d="M700 165V198"/>
+  <path d="M700 348V385"/>
+  <path d="M700 520V552"/>
+  <path d="M330 270H580"/>
+  <path d="M820 270H1070"/>
+</g>
+<g fill="#4e95e1">
+  <circle cx="700" cy="198" r="5"/><circle cx="700" cy="385" r="5"/><circle cx="700" cy="552" r="5"/>
+  <circle cx="580" cy="270" r="5"/><circle cx="820" cy="270" r="5"/>
+</g>
+
+<!-- central architecture -->
+<g filter="url(#shadow)">
+  <rect x="580" y="198" width="240" height="150" rx="22" fill="#fff" stroke="#c9dff5" stroke-width="2"/>
+  <circle cx="700" cy="238" r="22" fill="#e7f2ff"/>
+  <path d="M688 238h24M700 226v24" stroke="#397fc8" stroke-width="5" stroke-linecap="round"/>
+  <text x="700" y="285" text-anchor="middle" font-size="25" font-weight="700" fill="#194d86">ENGINEERING</text>
+  <text x="700" y="311" text-anchor="middle" font-size="13" letter-spacing="3" fill="#72829b">ARCHITECTURE · SYSTEMS · DX</text>
+</g>
+
+<!-- interface -->
+<g filter="url(#shadow)">
+ <rect x="55" y="145" width="275" height="250" rx="22" fill="#fff" stroke="#d4e4f5"/>
+ <circle cx="92" cy="183" r="22" fill="#e8f3ff"/><path d="M82 184l8 8 13-16" fill="none" stroke="#397fc8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="128" y="190" font-size="19" font-weight="700" letter-spacing="4" fill="#4e95e1">INTERFACE</text>
+ <text x="82" y="238" font-size="17" font-weight="700" fill="#26344b">React</text><text x="82" y="268" font-size="17" fill="#5e6e86">Angular</text><text x="82" y="298" font-size="17" fill="#5e6e86">Next.js</text><text x="82" y="328" font-size="17" fill="#5e6e86">React Native</text><text x="82" y="358" font-size="17" fill="#5e6e86">TypeScript · JavaScript</text>
+</g>
+
+<!-- enterprise -->
+<g filter="url(#shadow)">
+ <rect x="1070" y="145" width="275" height="250" rx="22" fill="#fff" stroke="#d4e4f5"/>
+ <circle cx="1107" cy="183" r="22" fill="#e8f3ff"/><path d="M1097 183h20M1107 173v20" stroke="#397fc8" stroke-width="4" stroke-linecap="round"/>
+ <text x="1143" y="190" font-size="19" font-weight="700" letter-spacing="4" fill="#4e95e1">ENTERPRISE</text>
+ <text x="1097" y="238" font-size="17" font-weight="700" fill="#26344b">Azure</text><text x="1097" y="268" font-size="17" fill="#5e6e86">Dynamics 365</text><text x="1097" y="298" font-size="17" fill="#5e6e86">Entra ID · MSAL</text><text x="1097" y="328" font-size="17" fill="#5e6e86">Dataverse</text><text x="1097" y="358" font-size="17" fill="#5e6e86">Fluent UI · Enterprise Auth</text>
+</g>
+
+<!-- platform -->
+<g filter="url(#shadow)">
+ <rect x="410" y="385" width="290" height="135" rx="22" fill="#fff" stroke="#d4e4f5"/>
+ <circle cx="447" cy="423" r="22" fill="#e8f3ff"/><path d="M437 429l10-12 10 12" fill="none" stroke="#397fc8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="483" y="430" font-size="19" font-weight="700" letter-spacing="4" fill="#4e95e1">PLATFORM</text>
+ <text x="442" y="468" font-size="16" font-weight="700" fill="#26344b">Node.js · Express · NestJS</text><text x="442" y="494" font-size="16" fill="#5e6e86">FastAPI · Firebase · Supabase · PostgreSQL</text>
+</g>
+
+<!-- delivery -->
+<g filter="url(#shadow)">
+ <rect x="700" y="385" width="290" height="135" rx="22" fill="#fff" stroke="#d4e4f5"/>
+ <circle cx="737" cy="423" r="22" fill="#e8f3ff"/><path d="M727 423h20M737 413v20" stroke="#397fc8" stroke-width="4" stroke-linecap="round"/>
+ <text x="773" y="430" font-size="19" font-weight="700" letter-spacing="4" fill="#4e95e1">DELIVERY</text>
+ <text x="732" y="468" font-size="16" font-weight="700" fill="#26344b">Terraform · GitHub Actions</text><text x="732" y="494" font-size="16" fill="#5e6e86">CI/CD · Docker · Cloud · IaC</text>
+</g>
+
+<!-- AI foundation -->
+<g filter="url(#shadow)">
+ <rect x="330" y="535" width="740" height="58" rx="29" fill="#173d6b"/>
+ <circle cx="367" cy="564" r="16" fill="#e8f3ff"/><circle cx="367" cy="564" r="7" fill="#397fc8"/>
+ <text x="398" y="570" font-size="16" font-weight="700" letter-spacing="4" fill="#d8eaff">AI / RAG</text>
+ <text x="555" y="570" font-size="15" fill="#fff">LLM Applications · RAG · Embeddings · Vector Search · Context Engineering · Evaluation</text>
+</g>
+
+<text x="700" y="610" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="4" fill="#8291a8">INTERFACE × PLATFORM × ARCHITECTURE × ENTERPRISE × DELIVERY × AI</text>
+</svg>
