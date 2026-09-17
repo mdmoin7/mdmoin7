@@ -184,35 +184,28 @@ The interesting part isn't simply calling a model. It is designing the **system 
 
 ## `// 07 — ENGINEERING SIGNAL`
 
-<div align="center">
-
 <table>
 <tr>
 <td align="center" width="33%">
+<h1>15K+</h1>
+<strong>ENGINEERS TRAINED</strong>
 <br />
-<strong>15k+</strong>
-<br />
-<sub>ENGINEERS TRAINED</sub>
-<br /><br />
+<sub>PEOPLE REACHED</sub>
 </td>
 <td align="center" width="33%">
+<h1>350+</h1>
+<strong>SESSIONS DELIVERED</strong>
 <br />
-<strong>350+</strong>
-<br />
-<sub>SESSIONS DELIVERED</sub>
-<br /><br />
+<sub>WORKSHOPS · LABS · PROGRAMS</sub>
 </td>
 <td align="center" width="33%">
+<h1>14+</h1>
+<strong>YEARS IN PRODUCTION</strong>
 <br />
-<strong>14+</strong>
-<br />
-<sub>YEARS IN PRODUCTION</sub>
-<br /><br />
+<sub>ENGINEERING · CLOUD · ENTERPRISE</sub>
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
