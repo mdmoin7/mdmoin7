@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/mdmoin7/portfolio@b4e402c3adbefe8714c71c5917299d758f86ee9a/assets/profile.webp" alt="Mohammad Moin — Independent Consultant and Corporate Technology Trainer" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-profile-frame.svg" width="72" alt="Mohammad Moin" />
+</p>
 
-<br />
-
-### `ENGINEERING × PEOPLE × AI`
+# MOHAMMAD MOIN
 
 **Independent Consultant · Corporate Technology Trainer**
+
+`ENGINEERING × PEOPLE × AI`
 
 > **Build People. Solve Problems. Innovate.**
 
@@ -24,17 +26,9 @@
 
 ## `// 00 — THE THESIS`
 
-```text
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│     SOFTWARE IS THE OUTPUT.                                             │
-│     SYSTEMS ARE THE LEVER.                                              │
-│     PEOPLE ARE THE MULTIPLIER.                                          │
-│                                                                          │
-│     I work where engineering, architecture, learning and AI converge.  │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-thesis.svg" alt="Handwritten thesis: People plus Technology equals a brighter tomorrow" width="100%" />
+</p>
 
 I help teams **understand complexity, shape architecture, build production systems, and develop the capability to evolve them**.
 
@@ -45,32 +39,22 @@ The work spans consulting, architecture, hands-on engineering, enterprise modern
 ## `// 01 — SYSTEM MAP`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-architecture.svg"
-       alt="Mohammad Moin engineering loop: people, problem, design, build, impact"
-       width="1000" />
+  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-architecture.svg" alt="Mohammad Moin engineering loop: people, problem, design, build, impact" width="100%" />
 </p>
 
 <p align="center"><sub>PEOPLE → PROBLEM → DESIGN → BUILD → IMPACT</sub></p>
 
 ---
 
-## `// 02 — WHAT I DO`
+## `// 02 — HOW I WORK`
 
-### `01 / CONSULT`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-how-i-work.svg" alt="Handwritten workflow: People, Problem, Design, Build, Impact" width="100%" />
+</p>
 
-Technical discovery · modernization · architecture direction · engineering strategy
+### `CONSULT` · `ARCHITECT` · `BUILD` · `ENABLE`
 
-### `02 / ARCHITECT`
-
-Frontend architecture · design systems · micro frontends · enterprise integration · auth boundaries
-
-### `03 / BUILD`
-
-Production applications · platforms · cloud infrastructure · AI-enabled workflows
-
-### `04 / ENABLE`
-
-Corporate training · engineering curricula · architecture workshops · hands-on labs
+Technical discovery · modernization · frontend architecture · design systems · micro frontends · enterprise integration · cloud / IaC · AI-enabled workflows · corporate training · architecture workshops · hands-on engineering labs
 
 ---
 
@@ -140,50 +124,15 @@ Corporate training · engineering curricula · architecture workshops · hands-o
 <img src="https://img.shields.io/badge/Vector_Search-7C3AED?style=for-the-badge&logo=elastic&logoColor=white" />
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,nodejs,nestjs,python,azure,terraform,docker,git,github&perline=12" alt="Technology stack" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,nodejs,nestjs,python,azure,terraform,docker,git,github&perline=12" alt="Technology stack" /></p>
 
 ---
 
-## `// 04 — THE AI PIPELINE`
+## `// 04 — AI & RAG`
 
-```text
-                         ┌──────────────────┐
-                         │      SOURCE      │
-                         │ docs · data · API │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │    INGESTION     │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │ CHUNK + EMBED    │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │  VECTOR SEARCH   │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │ CONTEXT ASSEMBLY │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │       LLM        │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │ EVALUATE / SHIP  │
-                         └──────────────────┘
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-ai-rag.svg" alt="Handwritten AI and RAG pipeline" width="100%" />
+</p>
 
 **AI focus:** LLM applications · RAG systems · embeddings · vector retrieval · context engineering · evaluation · AI-assisted development
 
@@ -191,32 +140,11 @@ The interesting part isn't simply calling a model. It is designing the **system 
 
 ---
 
-## `// 05 — TRAINING IS A SYSTEM`
+## `// 05 — TRAINING`
 
-```text
-                    THEORY
-                       │
-                       ▼
-                WHY IT MATTERS
-                       │
-                       ▼
-                  ARCHITECTURE
-                       │
-                       ▼
-                    BUILD
-                       │
-                       ▼
-                   BREAK IT
-                       │
-                       ▼
-                   DEBUG IT
-                       │
-                       ▼
-                   REFACTOR
-                       │
-                       ▼
-                 REAL SYSTEM
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-training-flow.svg" alt="Handwritten training flow from assessment to confidence" width="100%" />
+</p>
 
 ### Training domains
 
@@ -226,8 +154,7 @@ The interesting part isn't simply calling a model. It is designing the **system 
 
 `Azure` · `Terraform` · `CI/CD` · `AI / RAG` · `Engineering Practices`
 
-> A good training session doesn't end when the demo works.
-> It ends when the engineer can reason about **why it works, how it breaks, and how to evolve it**.
+> A good training session doesn't end when the demo works. It ends when the engineer can reason about **why it works, how it breaks, and how to evolve it**.
 
 ---
 
@@ -237,52 +164,25 @@ The interesting part isn't simply calling a model. It is designing the **system 
 
 **Water-consumption intelligence platform**
 
-```text
-READINGS ──► ANALYTICS ──► BILLING ──► EXPENSES
-                  │             │
-                  ▼             ▼
-              ANOMALIES      REPORTING
-                  │
-                  ▼
-                ALERTS
-```
-
 `React` `TypeScript` `Firebase` `Tailwind` `Recharts`
+
+`READINGS` → `ANALYTICS` → `BILLING` → `EXPENSES` → `REPORTING` → `ALERTS`
 
 ### `INCOME TRACKER / 02`
 
 **Finance application with resilient authentication**
 
-```text
-AUTH ──► TOKEN LIFECYCLE ──► TTL ──► DATA
-                 │
-                 ▼
-             REFRESH
-```
-
 `React` `TypeScript` `Supabase`
+
+`AUTH` → `TOKEN LIFECYCLE` → `TTL` → `REFRESH` → `DATA`
 
 ### `ENTERPRISE REACT + DATAVERSE / 03`
 
 **Enterprise application architecture around Microsoft platforms**
 
-```text
-USER
- │
- ▼
-MSAL / ENTRA ID
- │
- ▼
-ROLE-AWARE UX
- │
- ▼
-REACT + FLUENT UI
- │
- ▼
-DATAVERSE
-```
-
 `React` `Fluent UI` `MSAL` `Entra ID` `Dataverse` `React Query`
+
+`USER` → `AUTH` → `ROLE-AWARE UX` → `REACT` → `DATAVERSE`
 
 ---
 
@@ -290,22 +190,9 @@ DATAVERSE
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<h2>15k+</h2>
-<sub>ENGINEERS TRAINED</sub>
-</td>
-<td align="center" width="33%">
-<h2>350+</h2>
-<sub>SESSIONS DELIVERED</sub>
-</td>
-<td align="center" width="33%">
-<h2>14+</h2>
-<sub>YEARS IN PRODUCTION</sub>
-</td>
-</tr>
-</table>
+| 15k+ | 350+ | 14+ |
+|:---:|:---:|:---:|
+| engineers trained | sessions delivered | years in production |
 
 </div>
 
@@ -328,16 +215,10 @@ DATAVERSE
 ## `// 09 — CURRENT VECTOR`
 
 ```text
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   EXPLORING                                                     │
-│                                                                 │
-│   AI-native engineering       RAG architectures                │
-│   Enterprise React            Developer experience              │
-│   Architecture education      Intelligent workflows             │
-│   Modern cloud delivery       Systems that teach themselves    │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+AI-native engineering       RAG architectures
+Enterprise React            Developer experience
+Architecture education      Intelligent workflows
+Modern cloud delivery       Systems that teach themselves
 ```
 
 ---
@@ -352,11 +233,7 @@ DATAVERSE
 
 <br /><br />
 
-<a href="https://mohammadmoin.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-2454D8?style=for-the-badge" />
-</a>
-<a href="https://www.linkedin.com/in/mohammadmoin/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge" />
-</a>
+<a href="https://mohammadmoin.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-2454D8?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/mohammadmoin/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge" /></a>
 
 </div>
