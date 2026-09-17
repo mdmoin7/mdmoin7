@@ -184,16 +184,35 @@ The interesting part isn't simply calling a model. It is designing the **system 
 
 ## `// 07 — ENGINEERING SIGNAL`
 
-| SIGNAL | SCALE | EVIDENCE / PRACTICE |
-|:---|:---:|:---|
-| **People** | `15k+` | engineers trained across hands-on technology programs |
-| **Enablement** | `350+` | training sessions, workshops and engineering labs |
-| **Production** | `14+ yrs` | production engineering across frontend, backend, cloud and enterprise systems |
-| **Architecture** | `5 layers` | interface · platform · architecture · enterprise · delivery |
-| **AI systems** | `RAG` | retrieval · embeddings · context engineering · evaluation · observability |
-| **Delivery mindset** | `E2E` | design → build → test → automate → operate → evolve |
+<div align="center">
 
-<p align="center"><sub>THE SIGNAL IS NOT JUST WHAT I KNOW — IT IS WHAT I CAN HELP PEOPLE AND SYSTEMS DO.</sub></p>
+<table>
+<tr>
+<td align="center" width="33%">
+<br />
+<strong>15k+</strong>
+<br />
+<sub>ENGINEERS TRAINED</sub>
+<br /><br />
+</td>
+<td align="center" width="33%">
+<br />
+<strong>350+</strong>
+<br />
+<sub>SESSIONS DELIVERED</sub>
+<br /><br />
+</td>
+<td align="center" width="33%">
+<br />
+<strong>14+</strong>
+<br />
+<sub>YEARS IN PRODUCTION</sub>
+<br /><br />
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
