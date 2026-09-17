@@ -139,7 +139,7 @@ The interesting part isn't simply calling a model. It is designing the **system 
 ## `// 05 — TRAINING`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-training-flow.svg" alt="Handwritten training flow from assessment to confidence" width="100%" />
+  <img src="https://raw.githubusercontent.com/mdmoin7/mdmoin7/main/assets/moin-training-flow.svg" alt="Upskilling journey from assessment to production readiness and ownership" width="100%" />
 </p>
 
 ### Training domains
@@ -184,13 +184,16 @@ The interesting part isn't simply calling a model. It is designing the **system 
 
 ## `// 07 — ENGINEERING SIGNAL`
 
-<div align="center">
+| SIGNAL | SCALE | EVIDENCE / PRACTICE |
+|:---|:---:|:---|
+| **People** | `15k+` | engineers trained across hands-on technology programs |
+| **Enablement** | `350+` | training sessions, workshops and engineering labs |
+| **Production** | `14+ yrs` | production engineering across frontend, backend, cloud and enterprise systems |
+| **Architecture** | `5 layers` | interface · platform · architecture · enterprise · delivery |
+| **AI systems** | `RAG` | retrieval · embeddings · context engineering · evaluation · observability |
+| **Delivery mindset** | `E2E` | design → build → test → automate → operate → evolve |
 
-| 15k+ | 350+ | 14+ |
-|:---:|:---:|:---:|
-| engineers trained | sessions delivered | years in production |
-
-</div>
+<p align="center"><sub>THE SIGNAL IS NOT JUST WHAT I KNOW — IT IS WHAT I CAN HELP PEOPLE AND SYSTEMS DO.</sub></p>
 
 ---
 
